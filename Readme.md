@@ -1,3 +1,15 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Appointment.cs](./CS/T198803/Appointment.cs) (VB: [Appointment.vb](./VB/T198803/Appointment.vb))
+* [Default.aspx](./CS/T198803/Default.aspx) (VB: [Default.aspx](./VB/T198803/Default.aspx))
+* [Default.aspx.cs](./CS/T198803/Default.aspx.cs) (VB: [Default.aspx](./VB/T198803/Default.aspx))
+* [Global.asax](./CS/T198803/Global.asax) (VB: [Global.asax](./VB/T198803/Global.asax))
+* [Global.asax.cs](./CS/T198803/Global.asax.cs) (VB: [Global.asax](./VB/T198803/Global.asax))
+* [Model1.Context.cs](./CS/T198803/Model1.Context.cs) (VB: [Model1.Context.vb](./VB/T198803/Model1.Context.vb))
+* [Model1.cs](./CS/T198803/Model1.cs) (VB: [Model1.vb](./VB/T198803/Model1.vb))
+* [Resource.cs](./CS/T198803/Resource.cs) (VB: [Resource.vb](./VB/T198803/Resource.vb))
+<!-- default file list end -->
 # How to bind ASPxScheduler to MS SQL Server using Entity Framework
 
 
